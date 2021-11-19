@@ -38,6 +38,5 @@ I am a enthusiastic student committed to learning, developing skills in Front-en
 
 > [...more articles](https://learnwithved.hashnode.dev/)
 ---
-
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Ved235&show_icons=false&layout=compact&theme=radical" alt="Vedant's Github Stats">
+<img  align="center" src="https://user-images.githubusercontent.com/88609765/142573236-81f489a3-c163-45aa-a565-d65dd8ee685a.png" alt="Vedant's Github Stats">
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ved235&show_icons=false&layout=compact&theme=radical" alt="Vedant's Github Stats"> -->
