@@ -1,14 +1,11 @@
-### Hi There! Welcome! :wave:
-
+![Welcome](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Welcome)
+![Hi, I am Vedant.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20make%20stuff%20on%20the%20web%20and%20write%20blogs%20about%20it.&title=Hi%2C%20I%20am%20Vedant)
 ---
 ## 🚀 About Me
 I am a enthusiastic student committed to learning, developing skills in Front-end-development and team contribution. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.I am a part of my school CS72 Club. I am a blogger on [HashNode](https://learnwithved.hashnode.dev/). I am a App Developer with experience in mostly Javascript and Python.
 
 ---
-## 🔗Connect with me
-[![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ved235)
-[![linkedin](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=revolut&logoColor=white)](https://drive.google.com/file/d/1HtiyYa5ExaiePsVReD6UYYZnhaBduFCT/view?usp=sharing)
-[![twitter](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=Minutemailer&logoColor=white)](mailto:vedantsinghal07@gmail.com )
+
   
 ## 🛠 Skills
 
@@ -28,6 +25,30 @@ I am a enthusiastic student committed to learning, developing skills in Front-en
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ved235&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
+
+
+- 🌱 I’m currently learning **Python**
+
+- 👨‍💻 All of my socials are available [here](https://ayo.so/ved235)
+
+- 📝 I write articles on making web dev easy for everyone [here](https://learnwithved.hashnode.dev/)
+
+- 💬 Ask me about **web development**
+
+- 📫 How to reach me **vedantsinghal07@gmail.com**
+
+- ⚡ Fun fact **I also play the piano**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+
+[![github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ved235)
+[![resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=revolut&logoColor=white)](https://drive.google.com/file/d/1HtiyYa5ExaiePsVReD6UYYZnhaBduFCT/view?usp=sharing)
+[![email](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=Minutemailer&logoColor=white)](mailto:vedantsinghal07@gmail.com )
+[![quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://learnwithved.quora.com/)
+  
+</p>
 
 ### Latest blog articles
 
@@ -38,5 +59,16 @@ I am a enthusiastic student committed to learning, developing skills in Front-en
 
 > [...more articles](https://learnwithved.hashnode.dev/)
 ---
+
+
 <img  align="center" src="https://user-images.githubusercontent.com/88609765/142573236-81f489a3-c163-45aa-a565-d65dd8ee685a.png" alt="Vedant's Github Stats">
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ved235&show_icons=false&layout=compact&theme=radical" alt="Vedant's Github Stats"> -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ved235&show_icons=true&locale=en&layout=compact" alt="Vedant's Github Stats" /></p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ved235"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ved235" /></a></p><br><br>
+
+
+
+
