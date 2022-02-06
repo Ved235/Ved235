@@ -64,7 +64,7 @@ I am a enthusiastic student committed to learning, developing skills in Front-en
 <img  align="center" src="https://user-images.githubusercontent.com/88609765/142573236-81f489a3-c163-45aa-a565-d65dd8ee685a.png" alt="Vedant's Github Stats">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ved235&show_icons=true&locale=en&layout=compact" alt="Vedant's Github Stats" /></p>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Ved235/Ved235/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ved235"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ved235" /></a></p><br><br>
