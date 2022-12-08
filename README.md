@@ -1,5 +1,5 @@
-![Welcome](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Welcome)
-![Hi, I am Vedant.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20make%20stuff%20on%20the%20web%20and%20write%20blogs%20about%20it.&title=Hi%2C%20I%20am%20Vedant)
+
+Hi, I am Vedant.
 ---
 ## 🚀 About Me
 I am a enthusiastic student committed to learning, developing skills in Front-end-development and team contribution. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.I am a part of my school CS72 Club. I am a blogger on [HashNode](https://learnwithved.hashnode.dev/). I am a App Developer with experience in mostly Javascript and Python.
