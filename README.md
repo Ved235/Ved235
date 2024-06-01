@@ -2,7 +2,7 @@
 Hi, I am Vedant.
 ---
 ## 🚀 About Me
-I am a enthusiastic student committed to learning, developing skills in Front-end-development and team contribution. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.I am a part of my school CS72 Club. I am a blogger on [HashNode](https://learnwithved.hashnode.dev/). I am a App Developer with experience in mostly Javascript and Python.
+I am a enthusiastic student committed to learning, developing skills in full-stack-development and database/storage solutions. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.I am a instructor of my school's CS72 Club and director at our school's tech symposium SHISTECH. I am a blogger on [HashNode](https://learnwithved.hashnode.dev/). 
 
 ---
 
@@ -26,7 +26,7 @@ I am a enthusiastic student committed to learning, developing skills in Front-en
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ved235&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
-
+<a href="https://app.daily.dev/learnwithved"><img src="https://api.daily.dev/devcards/v2/TOrJkcsF0eg9E1soBugLL.png?r=agn&type=wide" width="652" alt="Vedant Singhal's Dev Card"/></a>
 
 - 🌱 I’m currently learning **Python**
 
@@ -44,7 +44,6 @@ I am a enthusiastic student committed to learning, developing skills in Front-en
   
 
 [![github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ved235)
-[![resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=revolut&logoColor=white)](https://drive.google.com/file/d/1HtiyYa5ExaiePsVReD6UYYZnhaBduFCT/view?usp=sharing)
 [![email](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=Minutemailer&logoColor=white)](mailto:vedantsinghal07@gmail.com )
 [![quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://learnwithved.quora.com/)
   
@@ -63,7 +62,7 @@ I am a enthusiastic student committed to learning, developing skills in Front-en
 <div style="display:flex">
 <img  align="center" src="https://user-images.githubusercontent.com/88609765/142573236-81f489a3-c163-45aa-a565-d65dd8ee685a.png" alt="Vedant's Github Stats">
 
-<a href="https://app.daily.dev/learnwithved"><img src="https://api.daily.dev/devcards/v2/TOrJkcsF0eg9E1soBugLL.png?r=agn&type=wide" width="652" alt="Vedant Singhal's Dev Card"/></a>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ved235"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ved235" /></a></p><br><br>
 
