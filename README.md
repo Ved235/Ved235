@@ -2,8 +2,7 @@
 Hi, I am Vedant.
 ---
 ## 🚀 About Me
-I am a enthusiastic student committed to learning, developing skills in full-stack-development and database/storage solutions. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.I am a instructor of my school's CS72 Club and director at our school's tech symposium SHISTECH. I am a blogger on [HashNode](https://learnwithved.hashnode.dev/). 
-
+I am a enthusiastic student committed to learning, developing skills in full-stack-development and database/storage solutions. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.I am a instructor of my school's CS72 Club and director at our school's tech symposium SHISTECH. 
 ---
 
   
@@ -45,19 +44,10 @@ I am a enthusiastic student committed to learning, developing skills in full-sta
 
 [![github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ved235)
 [![email](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=Minutemailer&logoColor=white)](mailto:vedantsinghal07@gmail.com )
-[![quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://learnwithved.quora.com/)
+
   
 </p>
 
-### Latest blog articles
-
-<!-- BLOG-POST-LIST:START -->
-- [CSS Overview: A must use Chrome Tool](https://learnwithved.hashnode.dev/css-overview-a-must-use-chrome-tool)
-- [Python (Iteration and Loops)](https://learnwithved.hashnode.dev/python-iteration-and-loops)
-<!-- BLOG-POST-LIST:END -->
-
-> [...more articles](https://learnwithved.hashnode.dev/)
----
 
 <div style="display:flex">
 <img  align="center" src="https://user-images.githubusercontent.com/88609765/142573236-81f489a3-c163-45aa-a565-d65dd8ee685a.png" alt="Vedant's Github Stats">
