@@ -2,7 +2,7 @@
 ## Hi, I am Vedant.
 
 ## About Me
-I am a enthusiastic student committed to learning, developing skills in full-stack-development and database/storage solutions. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects. I am a instructor of my school's CS72 Club and director at our school's tech symposium SHISTECH.  Part of BlitzHack CTF team.
+I am a enthusiastic student committed to learning, developing skills in full-stack-development and database/storage solutions. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects. I am a instructor of my school's CS72 Club and director at our school's tech symposium SHISTECH.  Part of [BlitzHack](https://blitzhack.xyz) CTF team.
 
 
   
@@ -27,7 +27,7 @@ I am a enthusiastic student committed to learning, developing skills in full-sta
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ved235&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
 <a href="https://app.daily.dev/vedved"><img src="https://api.daily.dev/devcards/v2/TOrJkcsF0eg9E1soBugLL.png?type=wide&r=ij9" width="652" alt="Vedant Singhal's Dev Card"/></a>
 
-- See my CTF writeups [here]([https://ctf-8.gitbook.io/vedved])
+- See my CTF writeups [here](https://ctf-8.gitbook.io/vedved)
 
 - How to reach me: **vedantsinghal07@gmail.com**
 
