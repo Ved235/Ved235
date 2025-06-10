@@ -1,9 +1,9 @@
 
-Hi, I am Vedant.
----
-## 🚀 About Me
-I am a enthusiastic student committed to learning, developing skills in full-stack-development and database/storage solutions. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.I am a instructor of my school's CS72 Club and director at our school's tech symposium SHISTECH. 
----
+## Hi, I am Vedant.
+
+## About Me
+I am a enthusiastic student committed to learning, developing skills in full-stack-development and database/storage solutions. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects. I am a instructor of my school's CS72 Club and director at our school's tech symposium SHISTECH.  Part of BlitzHack CTF team.
+
 
   
 ## 🛠 Skills
@@ -25,19 +25,12 @@ I am a enthusiastic student committed to learning, developing skills in full-sta
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ved235&label=Profile%20views&color=0e75b6&style=flat" alt="rainboestrykr" /> </p>
-<a href="https://app.daily.dev/learnwithved"><img src="https://api.daily.dev/devcards/v2/TOrJkcsF0eg9E1soBugLL.png?r=agn&type=wide" width="652" alt="Vedant Singhal's Dev Card"/></a>
+<a href="https://app.daily.dev/vedved"><img src="https://api.daily.dev/devcards/v2/TOrJkcsF0eg9E1soBugLL.png?type=wide&r=ij9" width="652" alt="Vedant Singhal's Dev Card"/></a>
 
-- 🌱 I’m currently learning **Python**
+- See my CTF writeups [here]([https://learnwithved.hashnode.dev/](https://ctf-8.gitbook.io/vedved))
 
-- 👨‍💻 All of my socials are available [here](https://ayo.so/ved235)
+- How to reach me: **vedantsinghal07@gmail.com**
 
-- 📝 I write articles on making web dev easy for everyone [here](https://learnwithved.hashnode.dev/)
-
-- 💬 Ask me about **web development**
-
-- 📫 How to reach me **vedantsinghal07@gmail.com**
-
-- ⚡ Fun fact **I also play the piano**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
@@ -50,7 +43,7 @@ I am a enthusiastic student committed to learning, developing skills in full-sta
 
 
 <div style="display:flex">
-<img  align="center" src="https://user-images.githubusercontent.com/88609765/142573236-81f489a3-c163-45aa-a565-d65dd8ee685a.png" alt="Vedant's Github Stats">
+
 
 
 <h3 align="left">Support:</h3>
