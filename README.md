@@ -1,10 +1,6 @@
 
 ## Hi, I am Vedant.
 
-## About Me
-I am a enthusiastic student committed to learning, developing skills in full-stack-development and database/storage solutions. Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects. I am a instructor of my school's CS72 Club and director at our school's tech symposium SHISTECH.  Part of [BlitzHack](https://blitzhack.xyz) CTF team.
-
-
   
 ## 🛠 Skills
 
